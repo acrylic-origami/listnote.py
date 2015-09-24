@@ -1,1 +1,3 @@
 # listnote.py
+
+**ListNote**: lists that _finally_ make sense. Now in Python flavour! Yum... whitespace and loose typing...
